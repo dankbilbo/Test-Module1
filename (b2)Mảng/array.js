@@ -20,3 +20,4 @@ let index1 = arr.findIndex(1);
 let index2 = arr.findIndex(0);
 console.log(index1);
 console.log(index2);
+
